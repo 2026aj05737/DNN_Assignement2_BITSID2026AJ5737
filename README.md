@@ -1,8 +1,8 @@
 # DNN Programming Assignment-2: RNN, LSTM, GRU and Transformer
-- **Name:** [Your Full Name]
+- **Name:** [SURYA PRAKASH]
 - **Student ID:** 2026aj05737
 
-## Chosen Hyperparameters & Variant (per Nov 9 Clarification)
+## Chosen Hyperparameters & Variant
 - **Problem 1 Hidden Size ($h$):** 64 (applied identically to RNN, LSTM, and GRU)
 - **Problem 2 Model Width ($d$):** 128 ($d_{ff} = 512$, 4 heads, 4 layers)
 - **Random Seeds:** 42, 123, 999
